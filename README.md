@@ -3,6 +3,7 @@
  Esse projeto apresenta um Braço Robótico controlado por arduino. 
  Cada articulação é manipulada em tempo real (base, braço, antebraço e garra) através de um potenciômetro.
  A simulação permite que a gente possa testar vcontrole de servo motor antes de passar para o projeto real.
+ Link do projetoi no TinkerCAD: https://www.tinkercad.com/things/bwNpG8DwcSq-braco-robotico
  -
 
  🛠️ Tecnogia e Ferramentário
